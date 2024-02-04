@@ -1,14 +1,14 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Elone Rajeev]
 
 I am a passionate and dedicated college student with a keen interest in the dynamic field of software development. My journey in the realm of technology has equipped me with a diverse set of skills and a thirst for continuous learning.
 
 ## 👀 About Me
 
-- 🎓 Currently pursuing a degree in [Your Major/Field] at [Your University].
+- 🎓 Currently pursuing a degree in [Computer Science and Engineering] at [JIET Universe , Rajasthan].
 - 💻 Aspiring software developer with proficiency in:
   - 💻 HTML
   - 🎨 CSS
-  - 🚀 JavaScript (JS)
+  - 🚀 JavaScript 
   - ⚛️ React
   - ☕ Java
   - 🐍 Python
@@ -21,7 +21,7 @@ I am a passionate and dedicated college student with a keen interest in the dyna
 
 I am in a constant state of learning, striving to stay updated with the latest trends and technologies in the software development landscape. Currently, I am honing my skills in:
 
-- [Add your current learning focus]
+- [Currently I'm In Second Year of our Computer Engineering Jurney.]
 
 ## 💞 Collaboration
 
@@ -29,5 +29,5 @@ I am actively seeking opportunities to collaborate on exciting projects that cha
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [Your Email]
-- 🐦 Twitter: [@YourTwitterHandle]
+- 📧 Email: [elonerajeev@gmail.com]
+- 🐦 Twitter: [@EloneRajeev]
